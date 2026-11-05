@@ -10,7 +10,7 @@ Build a reproducible machine learning classification pipeline using publicly ava
 
 Dataset
 
-Source: "Airt-ML Twitter Human Bots Dataset" (https://huggingface.co/datasets/airt-ml/twitter-human-bots)
+Source: ("https://www.kaggle.com/datasets/hashemalsalmi/cresci-2017)
 
 The dataset contains approximately 37,438 labelled account records.
 
