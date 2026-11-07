@@ -1,5 +1,11 @@
 # Sentinal AI
 
+<div align="center" style="background-color: #red; padding: 16px; border-radius: 8px; border: 1px solid #1e293b;">
+  <a href="https://sentinal-ai-applied-ml-bot-detection.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-0b1120?style=for-the-badge&logo=render&logoColor=white&color=0b1120" alt="LINK  LINK " style="box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);" />
+  </a>
+</div>
+
 An applied machine-learning project that estimates whether a social-media profile resembles a human or an automated account. It includes a data-cleaning pipeline, feature engineering, model benchmarking, a trained classifier, and a Flask dashboard/API.
 
 > **Scope:** This project analyzes account metadata supplied by the user. It does not connect to X/Twitter, verify an account's identity, or make a definitive attribution. Treat predictions as signals for human review.
