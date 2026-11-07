@@ -239,9 +239,6 @@ tests/                 Unit and API tests
 - Metrics depend on the dataset, split, threshold, and training environment. Validate against representative, recent data before operational use.
 - Do not submit private or sensitive information. The application is designed for public account metadata.
 
-## Replaceable image placeholders
-
-The dashboard and pipeline image URLs above are placeholders. Replace them with repository image paths after adding your own screenshots/diagrams, for example `docs/images/dashboard.png` and `docs/images/pipeline.png`.
 
 ## License and dataset
 
