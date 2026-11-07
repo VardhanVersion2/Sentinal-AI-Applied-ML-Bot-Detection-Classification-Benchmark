@@ -15,10 +15,10 @@ joblib>=1.4.0
 
 # API & Deployment
 flask>=3.1.0
+gunicorn>=23.0.0
 
 # Utilities & Notebook Environment
 jupyter>=1.1.0
 ipykernel>=6.30.0
 tqdm>=4.66.0
 openpyxl>=3.1.0
-
