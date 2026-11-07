@@ -13,8 +13,7 @@ An applied machine-learning project that estimates whether a social-media profil
 
 Replace this placeholder with a screenshot of the running dashboard:
 
-[(<img width="783" height="434" alt="image" src="https://github.com/user-attachments/assets/760546a2-1433-4e13-8133-a2a015583ffd" />
-)]
+![Sentinal AI dashboard](https://github.com/user-attachments/assets/760546a2-1433-4e13-8133-a2a015583ffd)
 
 ## Problem and intended use
 
@@ -30,9 +29,7 @@ Potential uses include:
 Do not use the output as the sole basis for suspending, restricting, or accusing an account. The benchmark is historical and its patterns may not generalize to current platforms or populations.
 
 ## How it works
- [****<img width="406" height="293" alt="image" src="https://github.com/user-attachments/assets/1dcec857-b7c9-4eae-bb5e-ceff99f409c5" />
-]
-
+![Sentinal AI pipeline](https://github.com/user-attachments/assets/1dcec857-b7c9-4eae-bb5e-ceff99f409c5)
 
 1. **Download and ingest:** `src/data/download.py` fetches the labeled CSV dataset; `src/data/loader.py` validates the expected label column and prepares account rows.
 2. **Clean:** The loader removes redundant index columns, maps `account_type` to `is_bot` (`0` for human, `1` for bot), fills missing text, normalizes count fields to non-negative numbers, and prepares profile flags.

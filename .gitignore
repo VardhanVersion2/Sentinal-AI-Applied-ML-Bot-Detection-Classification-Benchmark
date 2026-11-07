@@ -15,6 +15,7 @@ data/processed/*
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
+.matplotlib_cache/
 
 # Virtual environments
 venv/
